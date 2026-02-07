@@ -9,6 +9,7 @@ Built With
 - Python
 - pandas
 - CSV data file
+- SQL database
 
 Features
 - Accepts a list of ingredients as input
